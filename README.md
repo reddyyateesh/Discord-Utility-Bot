@@ -25,7 +25,15 @@ Contributions are welcome! Fork this repository, make your changes, and submit a
 This project is licensed under the [MIT License](https://github.com/reddyyateesh/Discord-Utility-Bot/blob/main/LICENSE.txt).
 
 ## About Us
-[![Discord](https://img.shields.io/badge/NARA_COMMUNITY%20-grey.svg?style=for-the-badge&logo=discord)](https://discord.com/invite/wzuhC4qTYm)
+[![Discord][Discord_Icon_Url]][Discord_Url]
+<span>
+[![YouTube][Youtube_Icon_Url]][Youtube_Url]
 
-[![YouTube](https://img.shields.io/badge/NARA_COMMUNITY-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCgioetEYDQ7-zzjsjqY07zA)
 
+[Discord_Icon_Url]: https://img.shields.io/badge/NARA_COMMUNITY%20-grey.svg?style=for-the-badge&logo=discord
+
+[Discord_Url]: https://discord.gg/wzuhC4qTYm
+
+[Youtube_Icon_Url]: https://img.shields.io/badge/NARA_COMMUNITY-red?style=for-the-badge&logo=youtube
+
+[Youtube_Url]: https://www.youtube.com/channel/UCgioetEYDQ7-zzjsjqY07zA

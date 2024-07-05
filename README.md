@@ -22,7 +22,7 @@ Contributions are welcome! Fork this repository, make your changes, and submit a
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/reddyyateesh/Discord-Utility-Bot/blob/main/LICENSE.txt).
+This project is licensed under the [MIT License](https://github.com/reddyyateesh/Discord-Utility-Bot/blob/main/LICENSE).
 
 ## About Us
 [![Discord][Discord_Icon_Url]][Discord_Url]

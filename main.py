@@ -59,5 +59,9 @@ async def banner(ctx: Context, user: Union[discord.User, discord.Member] = None)
         embed.set_author(name = "User doesn't have any banner.", icon_url = user.display_avatar.url)
         await ctx.send(embed=embed)
 
+@bot.command()
+async def serverbanner(ctx: Context) -> None:
+    pass
+
 bot.run(token=config.Bot_Token)
 
